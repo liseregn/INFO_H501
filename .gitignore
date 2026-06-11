@@ -4,7 +4,10 @@ site/
 docs/data/CIFAR10/
 docs/data/GroundTruth/
 docs/data/Video/
-__pycache__/
 *.zip
-*.npy
+
 extern_data/
+extern_data/
+*.npy
+__pycache__/
+*.pyc
